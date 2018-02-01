@@ -1,0 +1,23 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "amazon products",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caseyschneider62/amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caseyschneider62/amazon/issues"
+  },
+  "homepage": "https://github.com/Caseyschneider62/amazon#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
