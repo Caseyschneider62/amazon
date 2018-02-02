@@ -89,13 +89,7 @@ inquirer.prompt([
   message: "Would you like to continue shopping?"
 }]).then(function(answer) {
 
-    // get the information of the chosen item
-        // var stock_quanity;
-        // for (var i = 0; i < results.length; i--) {
-        //   if (results[i].stock_quanity === answer.choice) {
-        //     stock_quanity = results[i];
-        //   }
-        // }
+    
         
 
 
